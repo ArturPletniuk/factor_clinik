@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 64 64"
+   version="1.1"
+   sodipodi:docname="calendar.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata4669">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="838"
+     id="namedview4667"
+     showgrid="false"
+     inkscape:zoom="3.6875"
+     inkscape:cx="-15.186441"
+     inkscape:cy="32"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4650">
+    <style
+       id="style4648">.cls-1{fill:#33bbed;stroke:#33bbed;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5px;}</style>
+  </defs>
+  <title
+     id="title4652">calendar</title>
+  <path
+     class="cls-1"
+     d="M56.38,62.9,7.73,63a5.34,5.34,0,0,1-5.34-5.32L2.32,29.31A5.34,5.34,0,0,1,7.65,24v2.49A2.85,2.85,0,0,0,4.82,29.3l.06,28.37a2.85,2.85,0,0,0,2.85,2.84l48.66-.1a2.85,2.85,0,0,0,2.84-2.85l-.06-28.37a2.85,2.85,0,0,0-2.85-2.84V23.87a5.34,5.34,0,0,1,5.34,5.32l.06,28.37A5.34,5.34,0,0,1,56.38,62.9Z"
+     id="path4654"
+     style="fill:#46cdac;fill-opacity:1;stroke:#46cdac;stroke-opacity:1" />
+  <path
+     class="cls-1"
+     d="M56.15,26.36l-48.33.1A5.5,5.5,0,0,1,2.31,21V13.65A5.5,5.5,0,0,1,7.78,8.14v2.49a3,3,0,0,0-3,3V21a3,3,0,0,0,3,3l48.33-.1a3,3,0,0,0,3-3V13.53a3,3,0,0,0-3-3V8a5.5,5.5,0,0,1,5.51,5.49v7.32A5.5,5.5,0,0,1,56.15,26.36Z"
+     id="path4656"
+     style="fill:#46cdac;fill-opacity:1;stroke:#46cdac;stroke-opacity:1" />
+  <path
+     class="cls-1"
+     d="M16.21,18.6h-1a3.79,3.79,0,0,1-3.79-3.78l0-10a3.79,3.79,0,0,1,3.78-3.79h1A3.79,3.79,0,0,1,20,4.85l0,10A3.79,3.79,0,0,1,16.21,18.6Zm-1-15a1.3,1.3,0,0,0-1.29,1.3l0,10a1.3,1.3,0,0,0,1.3,1.29h1a1.3,1.3,0,0,0,1.29-1.3l0-10a1.3,1.3,0,0,0-1.3-1.29Z"
+     id="path4658"
+     style="fill:#46cdac;fill-opacity:1;stroke:#46cdac;stroke-opacity:1" />
+  <path
+     class="cls-1"
+     d="M48.69,18.53h-1a3.79,3.79,0,0,1-3.79-3.78l0-10A3.79,3.79,0,0,1,47.69,1h1a3.79,3.79,0,0,1,3.79,3.78l0,10A3.79,3.79,0,0,1,48.69,18.53Zm-1-15a1.3,1.3,0,0,0-1.29,1.3l0,10A1.3,1.3,0,0,0,47.72,16h1A1.3,1.3,0,0,0,50,14.74l0-10a1.3,1.3,0,0,0-1.3-1.29Z"
+     id="path4660"
+     style="fill:#46cdac;fill-opacity:1;stroke:#46cdac;stroke-opacity:1" />
+  <rect
+     class="cls-1"
+     x="22.69"
+     y="8.09"
+     width="18.6"
+     height="2.49"
+     id="rect4662"
+     style="fill:#46cdac;fill-opacity:1;stroke:#46cdac;stroke-opacity:1" />
+  <path
+     class="cls-1"
+     d="M30.21,53.44H30a5.6,5.6,0,0,1-4.15-2.25L20.22,44a5.6,5.6,0,0,1,5.29-8.92,5.56,5.56,0,0,1,3.68,2.2l1.66,2,6-6.22a5.6,5.6,0,0,1,8.1,7.75L34.43,51.72A5.61,5.61,0,0,1,30.21,53.44ZM24.79,37.52a3.11,3.11,0,0,0-2.59,5l5.66,7.18a3.13,3.13,0,0,0,2.33,1.27h.1a3.12,3.12,0,0,0,2.34-1L43.1,39a3.11,3.11,0,0,0-4.5-4.3L30.74,43l-3.5-4.13a3.15,3.15,0,0,0-2.09-1.28Z"
+     id="path4664"
+     style="fill:#46cdac;fill-opacity:1;stroke:#46cdac;stroke-opacity:1" />
+</svg>
